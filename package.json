@@ -1,0 +1,25 @@
+{
+  "name": "wechat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mybot.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "file-box": "^0.12.7",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "qrcode-terminal": "^0.12.0",
+    "request-promise": "^4.2.5",
+    "sleep": "^6.1.0",
+    "wechaty": "^0.32.5",
+    "wechaty-puppet": "^0.20.2",
+    "wechaty-puppet-macpro": "^0.4.0",
+    "wechaty-puppet-padplus": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
