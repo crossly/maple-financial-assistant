@@ -1,10 +1,3 @@
-{
-  "Admin": ["admin1", "admin1"],
-  "Mod": ["mod1", "mod2"],
-  "DebtGroups": ["group1","group2"],
-  "PushGroups": ["push_group_1","push_group_2", "push_group_3"],
-  "Message" : {
-    "Welcome": "Hi，Welcome",
-    "Tick": "Tick tick tick"
-  }
-}
+##枫之金融助手
+
+文章链接稍后更新
